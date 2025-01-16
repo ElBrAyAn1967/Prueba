@@ -17,7 +17,7 @@ import androidx.appcompat.app.AppCompatActivity;
 import com.example.prueba1.databinding.ActivityMainBinding;
 
 public class MainActivity extends AppCompatActivity {
-
+   int a =1;
     private AppBarConfiguration mAppBarConfiguration;
     private ActivityMainBinding binding;
 
